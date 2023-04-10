@@ -4,3 +4,4 @@ import App from './App.vue'
 import youyu from 'youyu-web-see'
 
 createApp(App).mount('#app')
+youyu()
